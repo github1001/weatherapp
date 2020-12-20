@@ -11,5 +11,12 @@ I couldn't grab the JSON data via the given url for whatever reason so I resorte
 I really hope that services or perhaps business will provide essential API with documented interoperability in the future just like pastebin.
 I am still learning react so, most of the time it's just seeing what works and not. There are new syntactical changes like the use of hooks that I am getting use to.
 
+![](frontend/public/Capture.JPG)
+
+
 # Happiness
 Well, at least now you know when it's sunny or rainy
+
+![](frontend/public/snapshot.JPG)
+
+
