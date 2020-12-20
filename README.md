@@ -17,6 +17,6 @@ I am still learning react so, most of the time it's just seeing what works and n
 # Happiness
 Well, at least now you know when it's sunny or rainy
 
-![](frontend/public/snapshot.JPG)
+![](frontend/public/snapshott.JPG)
 
 
